@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="constant.h" open="0" top="0" tabpos="3">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="heads.h" open="0" top="0" tabpos="2">
+		<Cursor position="817" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="19954" topLine="495" />
+	</File>
+	<File name="..\VersionX\structures.c" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
